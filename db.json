@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "jij",
+      "imgURl": "jlkjlllk",
+      "email": "yash@gmail.com",
+      "password": "",
+      "profession": "Select Profession",
+      "skill": "ugigugi",
+      "hourlyRate": "54",
+      "id": 7
+    },
+    {
+      "name": "jij",
+      "imgURl": "https://tse2.mm.bing.net/th?id=OIP.hmIggTIK5xXSsxsVIj9AuwHaLG&pid=Api&P=0&h=220",
+      "email": "harsh@gmail.com",
+      "password": "2455454",
+      "profession": "web-developer",
+      "skill": "ugigugi",
+      "hourlyRate": "54",
+      "id": 8
+    },
+    {
+      "name": "jij",
+      "imgURl": "https://tse2.mm.bing.net/th?id=OIP.hmIggTIK5xXSsxsVIj9AuwHaLG&pid=Api&P=0&h=220",
+      "email": "masai@gmail.com",
+      "password": "25545",
+      "profession": "graphic-designer",
+      "skill": "ugigugi",
+      "hourlyRate": "54",
+      "id": 9
+    },
+    {
+      "name": "jij",
+      "imgURl": "https://tse2.mm.bing.net/th?id=OIP.hmIggTIK5xXSsxsVIj9AuwHaLG&pid=Api&P=0&h=220",
+      "email": "nonteck@gmail.com",
+      "password": "35244",
+      "profession": "web-developer",
+      "skill": "ugigugi",
+      "hourlyRate": "54",
+      "id": 10
+    }
+  ]
+}
