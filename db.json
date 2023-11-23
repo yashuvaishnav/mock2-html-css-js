@@ -1,15 +1,5 @@
 {
-  "users": [
-    {
-      "name": "jij",
-      "imgURl": "jlkjlllk",
-      "email": "yash@gmail.com",
-      "password": "",
-      "profession": "Select Profession",
-      "skill": "ugigugi",
-      "hourlyRate": "54",
-      "id": 7
-    },
+  "freelancers": [
     {
       "name": "jij",
       "imgURl": "https://tse2.mm.bing.net/th?id=OIP.hmIggTIK5xXSsxsVIj9AuwHaLG&pid=Api&P=0&h=220",
@@ -39,6 +29,16 @@
       "skill": "ugigugi",
       "hourlyRate": "54",
       "id": 10
+    },
+    {
+      "name": "Yash Vaiashnav",
+      "imgURl": "https://tse2.mm.bing.net/th?id=OIP.hmIggTIK5xXSsxsVIj9AuwHaLG&pid=Api&P=0&h=220",
+      "email": "yashu@gmail.com",
+      "password": "25445",
+      "profession": "student",
+      "skill": "ugigugi",
+      "hourlyRate": "5452",
+      "id": 11
     }
   ]
 }
